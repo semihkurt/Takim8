@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>LogInPage.qml</file>
+        <file>CustomBtn.qml</file>
+        <file>backend.js</file>
+        <file>LogInInfoPage.qml</file>
+        <file>IdPage.qml</file>
+        <file>ScreenWindow.qml</file>
+    </qresource>
+</RCC>
