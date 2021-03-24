@@ -1,5 +1,7 @@
 # Takim 8
 
+## It was a 2 day Hackathon project that was arranged by HAVELSAN.
+
 ## --- H-RDP --- Havelsan Remote Desktop Project
 
 Yarisma kapsaminda, isyerindeki bilgisayarlarinizin tum programlarini, dosyalarini ve ag kaynaklarini evinizdeki bilgisayarınızdan, sanki isyerindeymis gibi kullanabilirsiniz.
